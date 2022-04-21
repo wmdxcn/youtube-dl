@@ -1,7 +1,7 @@
 [![Build Status](https://github.com/ytdl-org/youtube-dl/workflows/CI/badge.svg)](https://github.com/ytdl-org/youtube-dl/actions?query=workflow%3ACI)
 
 
-youtube-dl - download videos from youtube.com or other video platforms
+从 youtube.com 或其他视频平台下载视频
 
 - [INSTALLATION](#installation)
 - [DESCRIPTION](#description)
